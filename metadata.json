@@ -1,0 +1,6 @@
+{
+  "name": "Clínica de Estética Realizar",
+  "description": "Design de sobrancelhas exclusivo em Lauro de Freitas. Microblading, visagismo e micropigmentação de alta precisão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
